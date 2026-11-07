@@ -1,0 +1,7 @@
+prefix=/home/ntduc/AI_in_aciton/lab1/.conda
+includedir=${prefix}/include
+
+Name: FontsProto
+Description: Fonts extension headers
+Version: 2.1.3
+Cflags: -I${includedir}

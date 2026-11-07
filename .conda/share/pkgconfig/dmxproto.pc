@@ -1,0 +1,7 @@
+prefix=/home/ntduc/AI_in_aciton/lab1/.conda
+includedir=${prefix}/include
+
+Name: DMXProto
+Description: DMX extension headers
+Version: 2.3.1
+Cflags: -I${includedir}
