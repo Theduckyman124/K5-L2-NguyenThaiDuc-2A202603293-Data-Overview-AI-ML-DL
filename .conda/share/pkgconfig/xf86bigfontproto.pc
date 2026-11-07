@@ -1,7 +1,0 @@
-prefix=/home/ntduc/AI_in_aciton/lab1/.conda
-includedir=${prefix}/include
-
-Name: XF86BigFontProto
-Description: XF86BigFont extension headers
-Version: 1.2.0
-Cflags: -I${includedir}
